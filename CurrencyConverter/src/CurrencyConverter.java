@@ -24,7 +24,7 @@ public class CurrencyConverter {
                 System.out.println("/**************************| CURRENCY CONVERTER |****************************/");
                 System.out.println();
                 System.out.println("Currency Available to convert: CurrencyFormat = "+ Currency.firstCurrency()+","+Currency.secondCurrency()+","+Currency.thirdCurrency()+","+Currency.fourthCurrency()+","+Currency.fifthCurrency());
-                System.out.println("please enter in format like: yourAmount CurrencyFormat");
+                System.out.println("please enter in format like : yourAmount CurrencyFormat");
                 System.out.println("Enter a Currency: ");
                 String input = br.readLine();
 
